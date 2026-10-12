@@ -27,3 +27,8 @@ Thumbs.db
 
 # Word lock files
 ~$*
+
+# Local report files (not part of the repo)
+ИНСТРУКЦИЯ.md
+Лабораторная работа 0.docx
+screenshots/
